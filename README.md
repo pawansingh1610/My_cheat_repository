@@ -7,10 +7,11 @@ This repository contains various scripts, codes, and manuals I have used and cre
 - [Introduction](#introduction)
 - [Repository Structure](#repository-structure)
 - [Usage](#usage)
+  - [Mounting NAS Share](#mounting-nas-share)
 - [Setting Up SSH Tunneling for MATLAB](#setting-up-ssh-tunneling-for-matlab)
 - [MATLAB GUI using HPC](#matlab-gui-on-hpc)
-- [JUPYTER GUI using HPC](#matlab-gui-on-hpc)
-- [Garbage volume estimation with numerical base](#Garbage_vol_num)
+- [JUPYTER GUI using HPC](#jupyter-gui-on-hpc)
+- [Garbage volume estimation with numerical base](#garbage-volume-estimation-with-numerical-base)
 - [System Configuration Commands](#system-configuration-commands)
 - [License](#license)
 
@@ -27,6 +28,7 @@ This repository is a collection of scripts, configurations, and manuals useful i
 │   ├── netcd4_2_csv.py
 │   ├── Garbage_volume_with_numerical_base.ipynb
 │   ├── Modifying_DEM_using_SHP.py
+│   ├── mount_nas_share.sh
 │   └── ...
 ├── manuals/
 │   ├── hpc_matlab
